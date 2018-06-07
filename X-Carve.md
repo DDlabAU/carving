@@ -185,9 +185,7 @@ på holderne.
 
 #### Begynd dit carve!
 
--	Hvis du kan se at dit carve kommer til at tage lang tid, så sørg for at computeren
-ikke går i slumretilstand eller slukker inden for den tid det tager
-(*Start* -> *Settings* -> *System* -> *Power & sleep*)
+-	**Hvis du kan se at dit carve kommer til at tage lang tid, så sørg for at computeren ikke går i slumretilstand eller slukker inden for den tid det tager (*Start* -> *Settings* -> *System* -> *Power & sleep*)**
 
 -	Hvis du kan se at der går noget galt i  løbet af dit carve, så stop X-carven på
 den store røde knap til venstre på X-Carven eller stop den i easel på x’et i  øverste
