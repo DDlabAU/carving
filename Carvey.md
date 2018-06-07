@@ -63,6 +63,8 @@ Tryk Carve i øverste venstre hjørne og følg instruktionerne på skærmen
 
 - Påbegynd carve
 
+**Hvis dit carve vil tage længere tid, så sørg for at computeren ikke slukker eller går i slumretilstand under carving, for så vil carvet stoppe og kan ikke genoptages fra det tidspunkt den stoppede!**
+
 
 ### Import G-code
 
