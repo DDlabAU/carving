@@ -220,8 +220,8 @@ Så hvis du i din 3D modelleringssoftware (Enten Fusion 360 eller en anden
 modelleringssoftware), eksporterer din 3D model til f.eks. SVT eller OBJ format,
 så kan du bruge VCarve på computeren inde i grovlabbet.
 
-- [Her er nogle tutorials til VCarve](http://support.vectric.com/tutorials/V8/VCarveProCategoryIndex.html "VCarve tutorials")
-- [Her er en tutorial til specifikt at lave paths til en 3D model i VCarve](http://support.vectric.com/tutorials/V8/Import3D/Import3D_GS.html "Importer 3D model i VCarve")
+- [Klik her for nogle tutorials til VCarve](http://support.vectric.com/tutorials/V8/VCarveProCategoryIndex.html "VCarve tutorials")
+- [Klik her for en tutorial til specifikt at lave paths til en 3D model i VCarve](http://support.vectric.com/tutorials/V8/Import3D/Import3D_GS.html "Importer 3D model i VCarve")
 
 #### Når du har lavet dine paths f.eks. i vcarve og eksporteret modellen til gcode
 
