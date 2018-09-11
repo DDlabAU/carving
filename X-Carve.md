@@ -6,6 +6,9 @@ Design max mål med VCarve: **600x600 mm**
 
 ### Før du starter:
 
+**X-carven må kun betjenes af brugere i labbet der har taget kørekort i brugen af den!**
+- Henvend dig til en af de ansatte i labbet for at få mere at vide
+
 Hvis muligt, læg materiale under det materiale du ønsker at carve i, i tilfælde af at x-carven carver
 igennem, for at beskytte underlaget.
 
@@ -218,7 +221,7 @@ modelleringssoftware), eksporterer din 3D model til f.eks. SVT eller OBJ format,
 så kan du bruge VCarve på computeren inde i grovlabbet.
 
 - [Her er nogle tutorials til VCarve](http://support.vectric.com/tutorials/V8/VCarveProCategoryIndex.html "VCarve tutorials")
-- [Her er en tutorial til at lave paths til en 3D model i VCarve](http://support.vectric.com/tutorials/V8/Import3D/Import3D_GS.html "Importer 3D model i VCarve")
+- [Her er en tutorial til specifikt at lave paths til en 3D model i VCarve](http://support.vectric.com/tutorials/V8/Import3D/Import3D_GS.html "Importer 3D model i VCarve")
 
 #### Når du har lavet dine paths f.eks. i vcarve og eksporteret modellen til gcode
 
