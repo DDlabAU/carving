@@ -18,7 +18,8 @@ Spænd materiale fast med clamps.
 Vælg dit ønskede bit:
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
 
-- [Bit tutorial](https://www.inventables.com/projects/carving-bits-101#bill-of-materials "Bits 101")
+- [Klik her for en tutorial i bits!](https://inventables.desk.com/customer/portal/articles/2850808?b_id=9562&t=0 "Bits 101")
+- [Klik her for eksempelfotos med forskellige bits og materialer!](https://inventables.desk.com/customer/portal/articles/2918214-bit-and-material-pairings---photos "Bit eksempelfotos")
 
 Monter bittet:
 -	Indsæt dit bit i fræseren.
