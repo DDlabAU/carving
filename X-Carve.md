@@ -57,7 +57,7 @@ Vælg det bit du har monteret i carven øverst til højre.
 
 Lav dit design: [Tutorial til de simple funktioner i easel](https://inventables.desk.com/customer/en/portal/articles/2440798-designing-in-easel "Easel Tutorial")
 
-Placer dit design på easel, sådan at den ikke rammer nogle af de clamps du har sat
+Placer dit design på easel, sådan at det ikke rammer nogle af de clamps du har sat
 materialet fast med.
 
 Du kan senere vælge at dit nulpunkt i easel skal ligge et andet sted på x-carven, så
@@ -73,7 +73,7 @@ Tjek at maskinen reagerer på både x, y og z aksen.
 
 #### Hvis X-carven ikke reagerer
 
-Hvis maskinen reagerer på alle akser, så spring dette afsnit og gå til **Carve i easel fortsat**.
+Hvis maskinen reagerer på alle akser, så spring dette afsnit over og gå til **Carve i easel fortsat**.
 
 Hvis maskinen ikke reagerer på x,y,z akse, så **gem dit design!** Gå derefter ind under
 *Machine* -> *Set up your machine* og indsæt følgende oplysninger:
@@ -96,7 +96,7 @@ Test at carven virker i både x,y,z retninger med pilene og tryk *yes*, hvis de 
 
 Carven begynder nu *home* og *probe* processen (jf. home og probe nedenfor)
 
-Vælg *spindle control preference:* Manual og tryk *save spindle preference*
+Vælg *spindle control preference:* Automatic og tryk *save spindle preference*
 
 Tryk *enable homing*, og *start homing sequence.*
 
@@ -133,7 +133,7 @@ Følg herefter instruktionerne på skærmen
 -	Følg punkterne på skærmen.
 
 -	Sørg for at bittet er over materialet (det behøver ikke være der hvor du ønsker
-nulpunktet skal være, bare over materialet) med pilene til højre.
+nulpunktet skal være, bare over materialet) med pilene til højre på skærmen.
 
 -	Brug den lille ting med den røde og sorte ledning, med hhv. en klips og en metal
 cylinder fastgjort dertil.
@@ -165,8 +165,6 @@ på holderne.
 
 -	Spænd holderne fast.
 
--	Sæt det hvide forlængerstik på sponsugeren i stikkontakten.
-
 -	Tryk på den grønne knap med gummiovertrækket på sponsugeren.
 
 -	Tjek *dust shoe* af i easel.
@@ -175,11 +173,9 @@ på holderne.
 
 -	**TAG SIKKERHEDSBRILLER PÅ!**
 
--	Sæt stikket i kontakten.
+- **TAG HØREVÆRN PÅ!**
 
--	Sørg for hastigheden er omkring 4 eller 5.
-
--	Tænd for fræseren på kontakten med gummiovertrækket.
+-	Tjek at hastigheden på fræseren ikke er sat for lavt.
 
 -	Tjek spindle af i easel.
 
@@ -200,7 +196,7 @@ designs (f.eks. tekst og former).
 Hvis du i stedet vil carve f.eks. en 3D model, så kan du importere Gcode ind i easel,
 og dermed carve mere komplekse designs.
 
-3D modeller kan f.eks. laves i Fusion 360, der er gratis for studenrende, eller et
+3D modeller kan f.eks. laves i Fusion 360, der er gratis for studerende, eller et
 andet 3D modelleringsprogram.
 
 I fusion 360 kan du selv lave såkaldte ”CAM toolpaths” som er den path, som fræseren
@@ -216,7 +212,7 @@ alt="Import gcode from fusion 360" width="480" height="360" border="5" /></a>
 
 I labbet har vi også softwaren *VCarve* som næsten kan lave *CAM Toolpaths* for dig.
 
-Så hvis du i dit 3D modelleringssoftware (Enten Fusion 360 eller et anden
+Så hvis du i din 3D modelleringssoftware (Enten Fusion 360 eller en anden
 modelleringssoftware), eksporterer din 3D model til f.eks. SVT eller OBJ format,
 så kan du bruge VCarve på computeren inde i grovlabbet.
 
@@ -236,8 +232,6 @@ så kan du bruge VCarve på computeren inde i grovlabbet.
 
 
 ### Efter du har carvet:
-
-Sluk for fræseren på kontakten på selve og træk stikket ud af kontakten.
 
 Sluk for sponsugeren på den røde knap.
 
@@ -262,6 +256,6 @@ Afmonter alle clamps og tag dit carve.
 
 Afmonter bittet og sæt det tilbage hvor du tog det.
 
-Tag sponsugeren ud af stikket og saml ledningen sammen og læg på sponsugeren.
+Sluk for computeren.
 
 Gør rent efter dig med den rigtige støvsuger, der står i grovlabbet!
