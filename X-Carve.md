@@ -16,7 +16,7 @@ Mål dit materiale, både bredde, længde og dybde og noter målene ned.
 - **NB!** De mål du noterer ned er stadig kun målene på materialet du gerne vil carve i, **IKKE** det materiale du
 lægger under.
 
-Spænd materiale fast med clamps.
+Spænd materiale fast med clamps der ligger i en kasse under X-carven.
 
 Vælg dit ønskede bit:
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
@@ -24,12 +24,14 @@ Vælg dit ønskede bit:
 - [Klik her for en tutorial i bits!](https://inventables.desk.com/customer/portal/articles/2850808?b_id=9562&t=0 "Bits 101")
 - [Klik her for eksempelfotos med forskellige bits og materialer!](https://inventables.desk.com/customer/portal/articles/2918214-bit-and-material-pairings---photos "Bit eksempelfotos")
 
+- Bits kan findes i en kasse under x-carven.
+
 Monter bittet:
 -	Indsæt dit bit i fræseren.
 
--	Tryk den gule knap på fræseren ind.
+-	Hold den gule knap på fræseren inde.
 
--	Brug den store fastnøgle i det sorte etui til at spænde bittet fast.
+-	Brug den store fastnøgle i det sorte etui i en kasse under x-carven til at spænde bittet fast.
 
 Sørg for at *dust shoe* og holderne til dust shoe **IKKE** sidder på før du begynder at
 klargøre x-carven.
@@ -47,13 +49,11 @@ processor til at printe dit carve til X-carven.
 Du kan lave din egen profil og lave dit design på din egen computer og så enten
 logge ind på din easel account på computeren i grovlabbet (husk at logge ud efter
 du har carvet). Du kan også bruge DD Labs easel konto der er på computeren i
-grovlabbet.
+grovlabbet (passwordet er indtastet, bare påbegynd at skrive ddlabs mail: ddlabau@gmail.com).
 
 #### Easel setup
 
-Skriv målene på dit materiale ind i felterne til højre i easel.
-
-Vælg materiale type øverst til højre.
+Skriv målene på dit materiale samt materialetypen ind i menuen øverst til højre i easel.
 
 **NB!** Hvis du carver i akryl, så sæt *Cut Settings* øverst til højre fra *recommended* til *custom* og sæt *depth per pass* ned til mellem 0.5 - 0.3 mm.
 
@@ -79,7 +79,7 @@ Tjek at maskinen reagerer på både x, y og z aksen.
 
 Hvis maskinen reagerer på alle akser, så spring dette afsnit over og gå til **Carve i easel fortsat**.
 
-Hvis maskinen ikke reagerer på x,y,z akse, så **gem dit design!** Gå derefter ind under
+Hvis maskinen **ikke** reagerer på x,y,z akse, så **gem dit design!** Gå derefter ind under
 *Machine* -> *Set up your machine* og indsæt følgende oplysninger:
 
 - *Machine Type:* x-carve
@@ -98,13 +98,15 @@ Hvis maskinen ikke reagerer på x,y,z akse, så **gem dit design!** Gå derefter
 
 Test at carven virker i både x,y,z retninger med pilene og tryk *yes*, hvis de gør.
 
-Carven begynder nu *home* og *probe* processen (jf. home og probe nedenfor)
-
 Vælg *spindle control preference:* Automatic og tryk *save spindle preference*
+
+Sørg for at kontakten på fræseren er sat på *on*.
+
+Test herefter fræseren ved at trykke *Turn spindle on* og tjek at fræseren kører. Tjek ligeledes at fræseren slukker ved at trykke på *Turn spindle off*. Tryk derefter *Continue*.
 
 Tryk *enable homing*, og *start homing sequence.*
 
-Herefter vil carven begynde sin homing proces (jf. home nedenfor)
+Herefter vil carven begynde sin homing proces (jf. home nedenfor).
 
 ##### Setup Machine probe
 Tryk *yes* til *"do you have a probe?”* og udfør herefter proceduren, som vist på skærmen.
@@ -124,7 +126,11 @@ Tryk *run the test carve*, men i stedet for faktisk at køre det, trykker du på
 lille stafeli i øverste venstre hjørne og vælger din sketch fra tidligere.
 
 #### Carve i easel fortsat
-Følg herefter instruktionerne på skærmen
+Du har nu trykket *Carve* og tjekket at X-carven reagerer på både x,y, og z aksen.
+
+Følg herefter instruktionerne på skærmen, hvor du bliver bedt om at tjekke at du har det rigtige materiale, materialetykkelse, har fastspændtmaterialet og angivet det rigtige bit...
+
+Herefter vil X-carven begynde sin probing sequence (jf. probe nedenfor).
 
 ##### Home:
 
