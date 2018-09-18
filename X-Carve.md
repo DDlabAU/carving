@@ -12,6 +12,14 @@ Design max mål med VCarve: **600x600 mm**
 Hvis muligt, læg materiale under det materiale du ønsker at carve i, i tilfælde af at x-carven carver
 igennem, for at beskytte underlaget.
 
+X-carven kan carve i:
+- Ubehandlet træ
+- Plastik
+- Voks
+- Akryl
+- MDF
+- Aluminium
+
 Mål dit materiale, både bredde, længde og dybde og noter målene ned.
 - **NB!** De mål du noterer ned er stadig kun målene på materialet du gerne vil carve i, **IKKE** det materiale du
 lægger under.
@@ -179,6 +187,8 @@ på holderne.
 
 -	Bekræft i easel at *dust shoe* er påmonteret.
 
+- Luk døren til grovlabbet for ikke at forstyrre de andre i labbet.
+
 #### Fræser:
 
 -	**TAG SIKKERHEDSBRILLER PÅ!**
@@ -194,13 +204,19 @@ på holderne.
 - Tjek at fræseren kører og bekræft dette ved at trykke på *The spindle is on*.
 
 
-#### Begynd dit carve!
+#### Før du trykker *Carve*!
 
--	**Hvis du kan se at dit carve kommer til at tage lang tid, så sørg for at computeren ikke går i slumretilstand eller slukker inden for den tid det tager (*Start* -> *Settings* -> *System* -> *Power & sleep*)**
+-	**Hvis du kan se at dit carve kommer til at tage længere tid, så sørg for at computeren ikke går i slumretilstand eller slukker inden for den tid det tager (*Start* -> *Settings* -> *System* -> *Power & sleep*)**
+
+- Mens X-carven kører må den **ikke efterlades uden opsyn**. Man behøver ikke at blive i grovlabbet, men bliv i det mindste i labbet, så der kan holdes øje med maskinen. Husk altid sikkerhedsbriller og høreværn når du går ind i grovlabbet igen.
 
 -	Hvis du kan se at der går noget galt i  løbet af dit carve, så stop X-carven på
 den store røde knap til venstre på X-Carven hurtigst muligt. Carvet kan også stoppes i easel på x’et i  øverste
 højre hjørne, men den røde knap er oftest hurtigst.
+
+- Hvis der går noget galt med selve X-carven under dit carve, så oplys labbet om problemet til DD Lab's mail: ddlabau@gmail.com
+
+- Du kan nu trykke *Carve* i easel.
 
 ### Import Gcode
 
