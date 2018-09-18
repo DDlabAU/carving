@@ -140,7 +140,7 @@ Følg herefter instruktionerne på skærmen, hvor du bliver bedt om at tjekke at
 
 Herefter vil X-carven begynde sin probing sequence (jf. probe nedenfor).
 
-##### Home:
+#### Home:
 
 -	Her finder carven dens nulpunkt på x, y og z aksen.
 
