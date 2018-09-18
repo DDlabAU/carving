@@ -290,6 +290,8 @@ Afmonter alle clamps og tag dit carve.
 
 Afmonter bittet og sæt det tilbage hvor du tog det, **pas på** det kan være varmt.
 
+Sluk for X-controlleren.
+
 Sluk for computeren.
 
 Gør rent efter dig med den rigtige støvsuger, der står i grovlabbet!
