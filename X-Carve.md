@@ -283,7 +283,7 @@ Sluk for x-carven på kontakten bagpå x-controlleren (den sorte kassse) til ven
 x-carven.
 
 Tag *dust shoe* og holdere af fræseren og tænd evt. igen for sponsugeren og brug børsten
-til at få det sidste savsmuld der sidder i materialet ud. Sæt *dust shoe* tilbage i
+til at få de sidste materialerester der sidder i materialet ud. Sæt *dust shoe* tilbage i
 krogen når du er færdig.
 
 Afmonter alle clamps og tag dit carve.
