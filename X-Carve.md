@@ -288,7 +288,7 @@ krogen når du er færdig.
 
 Afmonter alle clamps og tag dit carve.
 
-Afmonter bittet og sæt det tilbage hvor du tog det.
+Afmonter bittet og sæt det tilbage hvor du tog det, **pas på** det kan være varmt.
 
 Sluk for computeren.
 
