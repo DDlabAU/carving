@@ -177,9 +177,9 @@ på holderne.
 
 -	Tryk på den grønne knap med gummiovertrækket på sponsugeren.
 
--	Tjek *dust shoe* af i easel.
+-	Bekræft i easel at *dust shoe* er påmonteret.
 
-#### Tænd for fræser:
+#### Fræser:
 
 -	**TAG SIKKERHEDSBRILLER PÅ!**
 
@@ -187,7 +187,12 @@ på holderne.
 
 -	Tjek at hastigheden på fræseren ikke er sat for lavt.
 
--	Tjek spindle af i easel.
+- Tjek at kontakten på fræseren er sat på *on*.
+
+-	Start fræseren ved at trykke på *Turn spindle on* i easel.
+
+- Tjek at fræseren kører og bekræft dette ved at trykke på *The spindle is on*.
+
 
 #### Begynd dit carve!
 
