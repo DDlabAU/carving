@@ -295,5 +295,5 @@ Sluk for computeren.
 
 Gør rent efter dig med den rigtige støvsuger, der står i grovlabbet!
 
-# Udfyld spørgeskemaet og anmod om kørekort til X-carve
+## Udfyld spørgeskemaet og anmod om kørekort til X-carve
 [Link til spørgeskemaet](https://goo.gl/forms/n9OnE0x5juWclPxJ3 "X-carve kørekort")
