@@ -6,7 +6,7 @@ Designs max mål: **300x200 mm**
 
 Mål dit materiale, både bredde, længde og dybde og noter målene ned.
 
-Caravey kan carve i:
+Carvey kan carve i:
 - Ubehandlet træ
 - Plastik
 - Voks
