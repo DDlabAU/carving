@@ -45,6 +45,8 @@ Indtast målene på materialet du vil carve i øverst til højre i easel.
 
 Vælg materialetype.
 
+**NB!** Tjek under *Cut Settings* øverst til højre at *depth per pass* ikke er højere end 0.8 mm. Hvis *depth per pass* er mere end 0.8, så ændrer *Cut Settings* fra *recommended* til *custom* og sæt *depth per pass* ned til 0.8.
+
 **NB!** Hvis du carver i akryl, så sæt *Cut Settings* øverst til højre fra *recommended* til *custom* og sæt *depth per pass* ned til mellem 0.5 - 0.3 mm.
 
 Vælg det bit du vil bruge
