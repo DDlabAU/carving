@@ -6,6 +6,14 @@ Designs max mål: **300x200 mm**
 
 Mål dit materiale, både bredde, længde og dybde og noter målene ned.
 
+Caravey kan carve i:
+- Ubehandlet træ
+- Plastik
+- Voks
+- Akryl
+- MDF
+- Aluminium
+
 Carveyen kan risikere at carve gennem materialet, så put evt. et materiale under det materiale du ønsker at
 carve i, for at beskytte underlaget.
 
