@@ -1,6 +1,6 @@
 # **X-Carve**
 
-Design max mål med easel eller 360 fusion: **750x750 mm**
+Design max mål med easel eller fusion 360: **750x750 mm**
 
 Design max mål med VCarve: **600x600 mm**
 
@@ -227,8 +227,7 @@ designs (f.eks. tekst og former).
 Hvis du i stedet vil carve f.eks. en 3D model, så kan du importere Gcode ind i easel,
 og dermed carve mere komplekse designs.
 
-3D modeller kan f.eks. laves i Fusion 360, der er gratis for studerende, eller et
-andet 3D modelleringsprogram.
+3D modeller kan f.eks. laves i [Fusion 360,](https://www.autodesk.com/products/fusion-360/students-teachers-educators "Download fusion 360") der er gratis for studerende, eller et andet 3D modelleringsprogram.
 
 I fusion 360 kan du selv lave såkaldte ”CAM toolpaths” som er den path, som fræseren
 skal bevæge sig i for at carve den ønskede 3D model. Dette er dog ret kompliceret og
