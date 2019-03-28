@@ -78,6 +78,7 @@ Du kan senere vælge at dit nulpunkt i easel skal ligge et andet sted på x-carv
 placer materialet ift. nulpunktet i easel, og så placer nulpunktet tilsvarene på x-carven når den skal nulstilles.
 
 Når du mener dit design er klar til at blive carvet tryk på *Carve* i øverste højre hjørne.
+  Første gang du trykker her vil easel bede dig om at installerer driveren til easel.
 
 #### Carve i easel
 
