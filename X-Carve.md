@@ -29,6 +29,7 @@ Spænd materiale fast med clamps der ligger i en kasse under X-carven.
 Vælg dit ønskede bit:
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
 
+- [Klik her for et skema over bits og materialer](https://inventables.zendesk.com/hc/en-us/articles/360021943493-Color-Coded-Bit-Chart-Choosing-the-Right-Bit?utm_source=Intercom&utm_medium=email%20XC%20Owner&utm_campaign=%3E%205%20carves%20bit%20poster%20download "Bit skema")
 - [Klik her for en tutorial i bits!](https://inventables.desk.com/customer/portal/articles/2850808?b_id=9562&t=0 "Bits 101")
 - [Klik her for eksempelfotos med forskellige bits og materialer!](https://inventables.desk.com/customer/portal/articles/2918214-bit-and-material-pairings---photos "Bit eksempelfotos")
 
