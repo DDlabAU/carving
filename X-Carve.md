@@ -35,7 +35,7 @@ Vælg dit ønskede bit:
 
 - Bits kan findes i en kasse under x-carven.
 
-Monter bittet:
+Montér bittet:
 -	Indsæt dit bit i fræseren.
 
 -	Hold den gule knap på fræseren inde.
