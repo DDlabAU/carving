@@ -25,7 +25,7 @@ venstre hjørne af materialet er under den L-formede clamp.
 
 
 Fastspænd dit ønskede bit med de to fastnøgler der ligger i kassen hvorpå der står
-*inventables*.
+*inventables*. Kassen ligger på hylden til venstre for carveyen.
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
 
 - [Klik her for et skema over bits og materialer](https://inventables.zendesk.com/hc/en-us/articles/360021943493-Color-Coded-Bit-Chart-Choosing-the-Right-Bit?utm_source=Intercom&utm_medium=email%20XC%20Owner&utm_campaign=%3E%205%20carves%20bit%20poster%20download "Bit skema")
@@ -36,7 +36,7 @@ Luk maskinen.
 
 Tryk på kontakten bag på maskinen for at tænde.
 
-Sæt USB stick i computer.
+Sæt USB kabel i computer.
 
 
 ### Easel
@@ -94,7 +94,7 @@ Hvis du har lavet en 3D model i dit foretrukne modelleringssoftware, og brugt de
 ### Efter du har carvet:
 Sluk for carveyen på kontakten bagpå maskinen.
 
-Brug støvsugeren der står i grovlabbet til at støvsuge materialet og maskinen for
+Brug håndstøvsugeren der står i vindueskarmen til at støvsuge materialet og maskinen for
 materialerester FØR du fjerner materialet.
 
 Fjern clamps og put dem tilbage i kassen
