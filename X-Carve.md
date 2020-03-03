@@ -9,10 +9,9 @@ Design max mål med VCarve: **600x600 mm**
 **X-carven må kun betjenes af brugere i labbet der har taget kørekort i brugen af den!**
 - Henvend dig til en af de ansatte i labbet for at få mere at vide
 
-Hvis muligt, læg materiale under det materiale du ønsker at carve i, i tilfælde af at x-carven carver
-igennem, for at beskytte underlaget.
+Hvis muligt, læg materiale under det materiale du ønsker at carve i, i tilfælde af at x-carven fræser igennem, for at beskytte underlaget.
 
-X-carven kan carve i:
+X-carven må **KUN** bruges til at carve i:
 - Ubehandlet træ
 - Plastik
 - Voks
@@ -20,33 +19,35 @@ X-carven kan carve i:
 - MDF
 - Aluminium
 
-Mål dit materiale, både bredde, længde og dybde og noter målene ned.
+Mål dit materiale, både bredde, længde og dybde og notér målene ned.
 - **NB!** De mål du noterer ned er stadig kun målene på materialet du gerne vil carve i, **IKKE** det materiale du
 lægger under.
 
-Spænd materiale fast med clamps der ligger i en kasse under X-carven.
+Spænd materiale fast med clamps der står i holderen ved siden af X-carven.
 
 Vælg dit ønskede bit:
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
 
 - [Klik her for et skema over bits og materialer](https://inventables.zendesk.com/hc/en-us/articles/360021943493-Color-Coded-Bit-Chart-Choosing-the-Right-Bit?utm_source=Intercom&utm_medium=email%20XC%20Owner&utm_campaign=%3E%205%20carves%20bit%20poster%20download "Bit skema")
-- [Klik her for en tutorial i bits!](https://inventables.desk.com/customer/portal/articles/2850808?b_id=9562&t=0 "Bits 101")
-- [Klik her for eksempelfotos med forskellige bits og materialer!](https://inventables.desk.com/customer/portal/articles/2918214-bit-and-material-pairings---photos "Bit eksempelfotos")
-
-- Bits kan findes i en kasse under x-carven.
+- [Klik her for en tutorial i bits!](https://inventables.zendesk.com/hc/en-us/articles/360012849233-Carving-Bits-101-Bit-Basics "Bits 101")
+- [Klik her for eksempelfotos med forskellige bits og materialer!](https://www.inventables.com/projects/carving-bits-101?ref=EaselLive&utm_source=YouTube&utm_medium=Easel%20Live&utm_campaign=13_bits101_project "Bit eksempelfotos")
+- [Læs kapitel 8(side 12) i denne X-carve quick-start guide](https://www.jesspublib.org/_uploads/X-Carve-Quick-Start-1.pdf "X-cave quick start")
+- Bits kan også findes i holderen ved siden af x-carven. Ekstra bits kan findes i kassen under x-carven.
 
 Montér bittet:
--	Indsæt dit bit i fræseren.
+-	Hold den gule knap på venstre side af fræseren inde.
 
--	Hold den gule knap på fræseren inde.
+-	Brug den store fastnøgle eller det lasercuttede håndtag der begge ligger i holderen ved siden af x-carven til at løsne den sorte bolt, som bittet skal sættes i.
 
--	Brug den store fastnøgle i det sorte etui i en kasse under x-carven til at spænde bittet fast.
+-	Indsæt dit bit i fræseren. Sørg for at holderen i fræseren er langt nok nede til at kunne nå og fastspænde bittet.
 
-Sørg for at *dust shoe* og holderne til dust shoe **IKKE** sidder på før du begynder at
-klargøre x-carven.
+-	Brug fastnøglen eller håndtaget til at fastspænde bittet.Sørg for stadig at holde den gule knap inde.
+
+Sørg for at hastigheden der indstilles på fræseren ikke er højere end 2!
 
 Tænd for x-carven bagpå x-controlleren, dvs. kassen til venstre på maskinen.
 
+[Læs mere om X-carven i denne quick start guide.](https://www.jesspublib.org/_uploads/X-Carve-Quick-Start-1.pdf)
 
 ### Easel
 
@@ -70,13 +71,20 @@ Skriv målene på dit materiale samt materialetypen ind i menuen øverst til hø
 
 Vælg det bit du har monteret i carven øverst til højre.
 
-Lav dit design: [Tutorial til de simple funktioner i easel](https://inventables.desk.com/customer/en/portal/articles/2440798-designing-in-easel "Easel Tutorial")
+Lav dit design! Nedenfor er en video, der introducerer simple funktioner i easel:
 
-Placer dit design på easel, sådan at det ikke rammer nogle af de clamps du har sat
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nNSqHzCvgrU
+" target="_blank"><img src="http://img.youtube.com/vi/nNSqHzCvgrU/0.jpg"
+alt="Easel tutorial" width="480" height="360" border="10" /></a>
+
+(Easel's interface har ændret sig en smule siden denne video blev lavet, men funktionerne er stadig de samme.)
+
+For mere avancerede Easel tutorials, [klik her.](https://inventables.zendesk.com/hc/en-us/sections/360002650993-Easel-Tutorials "Easel tutorials")
+
+Placér dit design på easel, sådan at det ikke rammer nogle af de clamps du har sat
 materialet fast med.
 
-Du kan senere vælge at dit nulpunkt i easel skal ligge et andet sted på x-carven, så
-placer materialet ift. nulpunktet i easel, og så placer nulpunktet tilsvarene på x-carven når den skal nulstilles.
+Du kan selv vælge hvor dit nulpunkt i easel skal ligge på x-carven, så placér materialet ift. nulpunktet i easel, og så placér nulpunktet tilsvarene på x-carven når den skal indstilles.
 
 Når du mener dit design er klar til at blive carvet tryk på *Carve* i øverste højre hjørne.
   Første gang du trykker her vil easel bede dig om at installerer driveren til easel.
