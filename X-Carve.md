@@ -23,7 +23,7 @@ Mål dit materiale, både bredde, længde og dybde og notér målene ned.
 - **NB!** De mål du noterer ned er stadig kun målene på materialet du gerne vil carve i, **IKKE** det materiale du
 lægger under.
 
-Spænd materiale fast med clamps der står i holderen ved siden af X-carven.
+Spænd materialet fast med clamps der står i holderen ved siden af X-carven.
 
 Vælg dit ønskede bit:
 - **Sæt dig ind i hvilke bits der passer til det du skal bruge!**
@@ -69,7 +69,7 @@ Skriv målene på dit materiale samt materialetypen ind i menuen øverst til hø
 
 **NB!** Hvis du carver i akryl, så sæt *Cut Settings* øverst til højre fra *recommended* til *custom* og sæt *depth per pass* ned til mellem 0.5 - 0.3 mm.
 
-Vælg det bit du har monteret i carven øverst til højre.
+Vælg størrelsen på det bit du har monteret i carven øverst til højre.
 
 Lav dit design! Nedenfor er en video, der introducerer simple funktioner i easel:
 
@@ -99,7 +99,7 @@ Tjek at maskinen reagerer på både x, y og z aksen.
 
 Hvis maskinen reagerer på alle akser, så spring dette afsnit over og gå til **Carve i easel fortsat**.
 
-Hvis maskinen **ikke** reagerer på x,y,z akse, så **gem dit design!** Gå derefter ind under
+Hvis maskinen **ikke** reagerer på x,y og z akserne, så **gem dit design!** Gå derefter ind under
 *Machine* -> *Set up your machine* og indsæt følgende oplysninger:
 
 - *Machine Type:* x-carve
@@ -116,7 +116,7 @@ Hvis maskinen **ikke** reagerer på x,y,z akse, så **gem dit design!** Gå dere
 
 - Tryk *Confirm settings*
 
-Test at carven virker i både x,y,z retninger med pilene og tryk *yes*, hvis de gør.
+Test igen at carven virker i både på x,y og z aksen med pilene og tryk *yes*, hvis de gør.
 
 Vælg *spindle control preference:* Automatic og tryk *save spindle preference*
 
@@ -154,9 +154,7 @@ Herefter vil X-carven begynde sin probing sequence (jf. probe nedenfor).
 
 #### Home:
 
--	Her finder carven dens nulpunkt på x, y og z aksen.
-
--	Sørg for at hverken dust shoe eller holdere dertil er sat på under denne proces.
+-	Her finder carven dens absolutte nulpunkt på x, y og z aksen.
 
 #### Probe:
 
@@ -183,15 +181,16 @@ easel.
 
 -	Når den er færdig tag proben af x-carven og tryk *Z-probe is put away*.
 
-Placer bittet over nettop det punkt du ønsker skal være 0,0 i easel, og tryk *set
-XY zero*.
+#### XY zero
+Find det punkt på materialet der skal bruges som det der svarer til 0,0 i easel.
+- Hvis du lægger materialet med hjørnet i L-formen der er monteret i arbejdsområdet på carven kan du trykke *Use last XY*. **NB!** Hvis det ikke virker bør du henvende dig til en ansat i labbet (Fysisk eller på mail: ddlabau@gmail.com).
+
+- Eller hvis du selv vil vælge hvor XY-koordinatet skal være på materialet skal du placere bittet over netop det punkt på materialet du ønsker skal svare til 0,0 i easel, og tryk *set XY zero*.
 
 #### Tænd for Sponsuger:
+- Løs skruerne på dust shoe holderne på hver side af fræseren.
 
--	Slide *dust shoe*-holderne på hver side af fræseren, så magneterne vender indad.
-
--	Før du spænder holderne fast, klik *dust shoen* ud af krogen til venstre og sæt den
-på holderne.
+-	Klik *dust shoen* ud af krogen til venstre og sæt den på holderne.
 
 -	Spænd holderne fast.
 
@@ -199,7 +198,7 @@ på holderne.
 
 -	Bekræft i easel at *dust shoe* er påmonteret.
 
-- Luk døren til grovlabbet for ikke at forstyrre de andre i labbet.
+- Luk døren til grovlabbet for ikke at forstyrre andre i labbet.
 
 #### Fræser:
 
@@ -222,9 +221,7 @@ på holderne.
 
 - Mens X-carven kører må den **ikke efterlades uden opsyn**. Man behøver ikke at blive i grovlabbet, men bliv i det mindste i labbet, så der kan holdes øje med maskinen. Husk altid sikkerhedsbriller og høreværn når du går ind i grovlabbet igen.
 
--	Hvis du kan se at der går noget galt i  løbet af dit carve, så stop X-carven på
-den store røde knap til venstre på X-Carven hurtigst muligt. Carvet kan også stoppes i easel på x’et i  øverste
-højre hjørne, men den røde knap er oftest hurtigst.
+-	Hvis du kan se at der går noget galt i  løbet af dit carve, så stop X-carven på den store røde knap til venstre på X-Carven hurtigst muligt. Carvet kan også stoppes i easel på x’et i  øverste højre hjørne, men den røde knap er oftest hurtigst.
 
 - Hvis der går noget galt med selve X-carven under dit carve, så oplys labbet om problemet til DD Lab's mail: ddlabau@gmail.com
 
@@ -280,22 +277,20 @@ så kan du bruge VCarve på computeren inde i grovlabbet.
 
 Sluk for sponsugeren på den røde knap.
 
-Tryk på *”it looks great”* (altså hvis det rent faktsik ser godt ud) i easel.
+Tryk på *”it looks great”* (hvis det rent faktisk ser godt ud) i easel.
 
 Fræseren sidder tit så tæt på materialet, at du hverken kan få dit materiale ud eller
 få *dust shoe* af fræseren.
 
 Tryk derfor på *Carve* igen og brug pilene til højre til at flytte fræseren op og væk
-fra materialet så du kan få det ud og få *dust shoe* af.
+fra materialet.
 
 Tryk derefter på krydset for at annullere det påbegyndte carve.
 
 Sluk for x-carven på kontakten bagpå x-controlleren (den sorte kassse) til venstre på
 x-carven.
 
-Tag *dust shoe* og holdere af fræseren og tænd evt. igen for sponsugeren og brug børsten
-til at få de sidste materialerester der sidder i materialet ud. Sæt *dust shoe* tilbage i
-krogen når du er færdig.
+Tænd evt. igen for sponsugeren og brug børsten til at få de sidste materialerester der sidder i materialet ud. Sæt *dust shoe* tilbage i krogen når du er færdig.
 
 Afmonter alle clamps og tag dit carve.
 

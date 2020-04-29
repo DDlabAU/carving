@@ -58,7 +58,7 @@ Vælg materialetype.
 
 **NB!** Hvis du carver i akryl, så sæt *Cut Settings* øverst til højre fra *recommended* til *custom* og sæt *depth per pass* ned til mellem 0.5 - 0.3 mm.
 
-Vælg det bit du vil bruge
+Vælg størrelsen på det bit du vil bruge
 - Easel tillader kun 1/32'', 1/16'' og 1/8'' end mill bits, samt 1/8'' straight cut.
 
 Lav dit design.
