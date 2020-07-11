@@ -88,7 +88,7 @@ Her er der en video tutorial, der forklarer hvordan gcode fra fusion 360 bedst i
 " target="_blank"><img src="http://img.youtube.com/vi/DFwXdnKzg2I/0.jpg"
 alt="Import gcode from fusion 360" width="480" height="360" border="5" /></a>
 
-Hvis du har lavet en 3D model i dit foretrukne modelleringssoftware, og brugt den rette post processor, så kan du bruge *VCarve* til at lave de "paths", som carveyen skal følge for at carve dit design. Dette er lettere end at bruge CAM værktøjet i fusion 360. Læs mere om VCarve i [X-Carve guiden](../master/X-Carve.md).
+Hvis du har lavet en 3D model i dit foretrukne modelleringssoftware, og brugt den rette post processor, så kan du bruge *VCarve* til at lave de "paths", som carveyen skal følge for at carve dit design. Dette er lettere end at bruge CAM værktøjet i fusion 360. Læs mere om VCarve i [guiden](../master/FræsningAf3DModeller.md).
 
 
 ### Efter du har carvet:
