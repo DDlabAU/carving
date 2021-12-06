@@ -104,8 +104,6 @@ Hvis maskinen **ikke** reagerer på x,y og z akserne, så **gem dit design!** G�
 
 - *Choose your machine type:* X-Carve (pre-November 2021)
 
-- *Machine Type:* x-carve
-
 - *Motion controller:* x-controller
 
 - *Rail size:* 1000mmx1000mm
