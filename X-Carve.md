@@ -102,15 +102,19 @@ Hvis maskinen reagerer på alle akser, så spring dette afsnit over og gå til *
 Hvis maskinen **ikke** reagerer på x,y og z akserne, så **gem dit design!** Gå derefter ind under
 *Machine* -> *Set up your machine* og indsæt følgende oplysninger:
 
+- *Choose your machine type:* X-Carve (pre-November 2021)
+
 - *Machine Type:* x-carve
 
 - *Motion controller:* x-controller
 
 - *Rail size:* 1000mmx1000mm
 
-- *Lead screw:* ACME threaded rod
+- *Z Axis:* Belt Drive W/ACME threaded rod
 
 - *Spindle:* Dewalt 611
+
+- *Belts:* 2GT 6mm
 
 - Sæt flueben ved *Dust shoe*
 
