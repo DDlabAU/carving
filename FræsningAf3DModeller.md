@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-dinky
+title: "Fræsning af 3D modeller med VCarve"
+permalink: /vcarve/
+---
+
 # Fræsning af 3D modeller med VCarve
 Vetric VCarve er software vi har tilgængeligt i labbet på computeren i CNC-rummet. VCarve bruges til at lave designs der kan fræses på enten X-carven eller carveyen. Programmet kan oversætte dit design til *paths*/gcode der kan importeres i easel, hvorefter man sætter maskinen op som sædvaneligt når man bruger easel.
 
