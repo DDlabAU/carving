@@ -4,7 +4,7 @@ title: "Carvey"
 permalink: /carvey/
 ---
 
-# **Carvey**
+# Carvey
 
 Designs max mål: **300x200 mm**
 
