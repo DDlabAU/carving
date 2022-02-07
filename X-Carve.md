@@ -2,7 +2,7 @@
 layout: page
 theme: jekyll-theme-dinky
 title: "X-Carve"
-permalink: /x-carve/
+permalink: /X-Carve.md/
 ---
 
 # **X-Carve**
