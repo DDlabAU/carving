@@ -4,7 +4,7 @@ title: "X-Carve"
 permalink: /x-carve/
 ---
 
-# **X-Carve**
+# X-Carve
 
 Design max mål med easel eller fusion 360: **750x750 mm**
 
