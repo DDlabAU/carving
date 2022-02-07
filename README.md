@@ -1,7 +1,9 @@
 # Carving
+[Se en pænere version af vejledningen her](https://ddlabau.github.io/carving/)
+
 Her findes guides til labbets to CNC-fræsere:
-- [X-carve guiden](../carving/x-carve)
-- [Carvey guiden](../carving/carvey)
+- [X-carve guiden](https://ddlabau.github.io/carving/x-carve/)
+- [Carvey guiden](https://ddlabau.github.io/carving/carvey/)
 
 Samt en guide til at carve 3D modeller med CNC-fræserne ved hjælp af VCarve, som er software der er tilgængeligt i labbet.
 - [Fræsning af 3D modeller med VCarve](../master/FræsningAf3DModeller.md)
@@ -10,6 +12,6 @@ HUSK for at kunne anvende X-carven skal man gennem en workshop og anmode om kør
 
 
 ### Inspiration
-Guides til forskellige projekter: https://www.inventables.com/projects
+[Guides til forskellige projekter](https://www.inventables.com/projects)
 
-YouTube playliste med projekter: https://www.youtube.com/playlist?list=PLFr1ntD6SYNRbEOPZeUvV8EGPFW27hIY3&disable_polymer=true
+[YouTube playliste med projekter](https://www.youtube.com/playlist?list=PLFr1ntD6SYNRbEOPZeUvV8EGPFW27hIY3&disable_polymer=true)
