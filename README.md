@@ -1,7 +1,7 @@
 # Carving
 Her findes guides til labbets to CNC-fræsere:
-- [X-carve guiden](../master/X-Carve.md)
-- [Carvey guiden](../master/Carvey.md)
+- [X-carve guiden](../carving/x-carve)
+- [Carvey guiden](../carving/carvey)
 
 Samt en guide til at carve 3D modeller med CNC-fræserne ved hjælp af VCarve, som er software der er tilgængeligt i labbet.
 - [Fræsning af 3D modeller med VCarve](../master/FræsningAf3DModeller.md)
