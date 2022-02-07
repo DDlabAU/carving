@@ -1,6 +1,8 @@
+---
 layout: page
 title: "X-Carve"
 permalink: /carving/x-carve/
+---
 
 # **X-Carve**
 
