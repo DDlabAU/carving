@@ -1,5 +1,4 @@
 ---
-layout: page
 theme: jekyll-theme-dinky
 title: "Carvey"
 permalink: /carvey/
